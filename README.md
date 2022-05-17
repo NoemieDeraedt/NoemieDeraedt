@@ -14,6 +14,8 @@
   <img align="left" alt="Noémie's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br/>
+
 Contactez moi par mail (noemiederaedt62@gmail.com) !
 
 ### My GitHub stats!
