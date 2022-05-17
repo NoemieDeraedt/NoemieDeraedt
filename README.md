@@ -10,7 +10,7 @@
   <img align="left" alt="Noémie's LinkedIn" width="22px" src="https://github.com/NoemieDeraedt/NoemieDeraedt/blob/main/linkedin-icon-2.svg" />
 </a>
 
-<br/><br/>
+<br/>
 
 # A propos de moi
 
@@ -24,7 +24,7 @@
 
 Pour me contacter par mail (noemiederaedt62@gmail.com) ou via mon [site](https://noemie-deraedt.fr) !
 
-<br/><br/>
+<br/>
 
 # Mes technos
 
@@ -67,7 +67,7 @@ Nous permettons aux utilisateurs de recevoir des rappels concernant l'état de l
   <img align="left" alt="Leafy's Facebook" width="22px" src="https://github.com/NoemieDeraedt/NoemieDeraedt/blob/main/facebook-3.svg" />
 </a>
 
-<br/><br/>
+<br/>
 
 ### Mes stats GitHub !
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NoemieDeraedt&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
