@@ -14,7 +14,7 @@
 
 # A propos de moi
 
-👩‍🎓 Moi c'est Noémie, 21 ans et étudiante en informatique à Epitech.<br/>
+👩‍🎓 Moi c'est Noémie, 22 ans et étudiante en informatique à Epitech.<br/>
 🏠 J'habite aux alentours de Lille.<br/>
 💻 Je suis développeuse Web et Mobile React Native / JS<br/>
 💗 Mes passions ?
